@@ -6,4 +6,8 @@ Requirement:
     
     
  Data Requirement:
+    For the data format, please refer to the provided "y_test.csv" and "X_test.csv" files.
     
+  
+ 
+

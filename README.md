@@ -7,12 +7,8 @@ Requirement:
     
  Data Requirement:
      
-     The format of y_test is as follows:
-   event	time
-   
-FALSE	0.153422976
 
-     The format of X_test is as follows:
+The format of X_test is as follows:
   LIPT1	CDKN2A	DLAT	LIAS
   
 2.213931	0.6264066	4.2648531	4.096164
